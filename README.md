@@ -1,4 +1,4 @@
-# Boulder_ID
+﻿# Boulder_ID
 
 ## The workflow identifies boulders in HiRISE imagery.
 ### This method is based on the proximity of an illuminated face to a shadow.
@@ -24,3 +24,4 @@
 - Works on images with any illumination angle
 - Works across high-contrast images 
 - Enables easy user control over the true boulder distribution via ‘liberal’ and ‘conservative’ parameters
+
