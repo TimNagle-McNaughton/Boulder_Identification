@@ -1,4 +1,3 @@
-# This project identifies boulders in HiRISE imagery.
 ### This method is based on the proximity of an illuminated face to a shadow.
 
 **The full process is as follows:**
