@@ -1,3 +1,7 @@
+# Requirements
+- Python 3+ (64-bit strongly recommended)
+- Jupyter Notebook (can be converted to a .py)
+
 ### This method is based on the proximity of an illuminated face to a shadow.
 
 **The full process is as follows:**
