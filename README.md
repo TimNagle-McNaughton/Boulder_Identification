@@ -1,4 +1,5 @@
 # Requirements
+- ESRI ArcGIS & ArcPy
 - Python 3+ (64-bit strongly recommended)
 - Jupyter Notebook (can be converted to a .py)
 
