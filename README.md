@@ -14,16 +14,4 @@
 - For each brightness interval, the user then visually compares the original HiRISE image to each of the boulder-pixel rasters to determine the pixel threshold at which no false-positive boulder pixels are present (the ‘conservative’ threshold), and the threshold at which no false-negative pixels are present (the ‘liberal’ threshold)
 - The boulder rasters corresponding to the conservative and liberal values are converted to simplified polygons (polygons containing a minimum number of segments while remaining as close as possible the original raster cells)
 - The minimum-bounding geometry of each polygon is calculated
-- The resulting database tables are exported for further analysis 
-
-**Using this procedure, the workflow:** 
-- Requires only a HiRISE image
-- Requires only ESRI ArcGIS software
-- Requires bare minimum understanding of programming
-- Can identify almost all boulders >50cm in diameter
-- Can be customized to various degrees of boulder rounding
-- Works on images with different overall brightness levels
-- Works on images with any illumination angle
-- Works across high-contrast images 
-- Enables easy user control over the true boulder distribution via ‘liberal’ and ‘conservative’ parameters
-
+- The resulting database tables are exported for further analysis
