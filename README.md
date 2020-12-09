@@ -1,4 +1,6 @@
-# Requirements
+This project identifies boulders in HiRISE imagery using the ArcPy library and standard GIS methods.
+
+### Requirements
 - ESRI ArcGIS & ArcPy
 - Python 3+ (64-bit strongly recommended)
 - Jupyter Notebook (can be converted to a .py)
